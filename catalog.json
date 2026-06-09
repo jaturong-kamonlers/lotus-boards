@@ -1,1 +1,62 @@
-[]
+[
+    {
+        "id":  "LotusDevkit",
+        "name":  "LotusDevkit",
+        "version":  "1.1.0",
+        "description":  "ESP32 dev board - OLED + RGB + buzzer + IR remote",
+        "author":  "Lotus Arduibot",
+        "platform":  "arduino-esp32",
+        "icon":  "https://raw.githubusercontent.com/jaturong-kamonlers/lotus-boards/main/icons/LotusDevkit.jpg",
+        "downloadUrl":  "https://github.com/jaturong-kamonlers/lotus-boards/raw/main/LotusDevkit.zip"
+    },
+    {
+        "id":  "LotusDevkit4Wheels",
+        "name":  "LotusDevkit 4 Wheels",
+        "version":  "1.0.0",
+        "description":  "ESP32 4-wheel robot platform - motor driver + ultrasonic + line sensors",
+        "author":  "Lotus Arduibot",
+        "platform":  "arduino-esp32",
+        "icon":  "https://raw.githubusercontent.com/jaturong-kamonlers/lotus-boards/main/icons/LotusDevkit4Wheels.jpg",
+        "downloadUrl":  "https://github.com/jaturong-kamonlers/lotus-boards/raw/main/LotusDevkit4Wheels.zip"
+    },
+    {
+        "id":  "LotusNanoBot",
+        "name":  "LotusNanoBOT",
+        "version":  "1.0.1",
+        "description":  "Arduino Nano AVR robot - L9110S motors + IR sensors + ultrasonic",
+        "author":  "Lotus Arduibot",
+        "platform":  "arduino-avr",
+        "icon":  "https://raw.githubusercontent.com/jaturong-kamonlers/lotus-boards/main/icons/LotusNanoBot.jpg",
+        "downloadUrl":  "https://github.com/jaturong-kamonlers/lotus-boards/raw/main/LotusNanoBot.zip"
+    },
+    {
+        "id":  "LotusMegaBot",
+        "name":  "LotusMegaBot",
+        "version":  "1.1.0",
+        "description":  "Arduino Mega AVR robot - multi-servo arm + advanced peripherals",
+        "author":  "Lotus Arduibot",
+        "platform":  "arduino-avr",
+        "icon":  "https://raw.githubusercontent.com/jaturong-kamonlers/lotus-boards/main/icons/LotusMegaBot.jpg",
+        "downloadUrl":  "https://github.com/jaturong-kamonlers/lotus-boards/raw/main/LotusMegaBot.zip"
+    },
+    {
+        "id":  "LotusMegaBotPlus",
+        "name":  "LotusMegaBot++",
+        "version":  "1.0.0",
+        "description":  "Mega 2560 + TFT 1.8\" + Encoder + 6 motors + 9 servos",
+        "author":  "Lotus Arduibot",
+        "platform":  "arduino-avr",
+        "icon":  "https://raw.githubusercontent.com/jaturong-kamonlers/lotus-boards/main/icons/LotusMegaBotPlus.jpg",
+        "downloadUrl":  "https://github.com/jaturong-kamonlers/lotus-boards/raw/main/LotusMegaBotPlus.zip"
+    },
+    {
+        "id":  "LotusDueBot",
+        "name":  "LotusDueBot",
+        "version":  "1.0.0",
+        "description":  "Arduino Due SAM3X8E + TFT 1.8\" + 4 Encoder + 6 motors + 9 servos + IMU + SD",
+        "author":  "Lotus Arduibot",
+        "platform":  "arduino-sam",
+        "icon":  "https://raw.githubusercontent.com/jaturong-kamonlers/lotus-boards/main/icons/LotusDueBot.jpg",
+        "downloadUrl":  "https://github.com/jaturong-kamonlers/lotus-boards/raw/main/LotusDueBot.zip"
+    }
+]
